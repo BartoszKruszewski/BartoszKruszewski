@@ -20,7 +20,7 @@
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left">
-  <img align="left" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BartoszKruszewski&show_icons=true&theme=dark&size_weight=0.5&count_weight=0.5&hide=CMake,MakeFile,HTML,CSS,JavaScript,C&langs_count=10&layout=compact"/>
+  <img align="left" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BartoszKruszewski&show_icons=false&theme=dark&size_weight=0.5&count_weight=0.5&hide=CMake,MakeFile,HTML,CSS,JavaScript,C&langs_count=5&layout=compact"/>
   <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
