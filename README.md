@@ -1,4 +1,4 @@
-<img src="https://github.com/BartoszKruszewski03/BartoszKruszewski03/blob/main/baner.png">
+<img src="https://github.com/BartoszKruszewski/BartoszKruszewski/blob/main/baner.png">
 <h1 align="left">Hi 👋, I'm Bartosz Kruszewski</h1>
 
 <p align="left"> 
