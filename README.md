@@ -12,7 +12,6 @@
 
 📧 How to reach me **BartoszKruszewski03@gmail.com**
 
-
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://fb.com/bartosz.kruszewski.946/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/bartosz.kruszewski.946/" height="30" width="40" /></a>
@@ -21,16 +20,13 @@
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left">
+  <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BartoszKruszewski&show_icons=true&theme=dark&size_weight=0.5&count_weight=0.5&hide=CMake,MakeFile,HTML,CSS,JavaScript,C&langs_count=10&layout=compact"/>
+  <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Racket-logo.svg/480px-Racket-logo.svg.png" alt="racket" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Racket-logo.svg/480px-Racket-logo.svg.png" alt="racket" width="40" height="40"/>
 </p>
-
-<a href="https://github.com/BartoszKruszewski/github-readme-stats">
-  <img align="left" width="47%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BartoszKruszewski&show_icons=true&theme=dark&size_weight=0.5&count_weight=0.5&hide=CMake,MakeFile&langs_count=10&layout=compact" />
-</a>
-
