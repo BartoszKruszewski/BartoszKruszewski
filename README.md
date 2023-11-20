@@ -2,7 +2,7 @@
 <h1 align="left">Hi 👋, I'm Bartosz Kruszewski</h1>
 
 <p align="left"> 
-  I'm a first-year Computer Science student at the University of Wrocław, with a strong <br>
+  I'm a second-year Computer Science student at the University of Wrocław, with a strong <br>
   passion for creating 2D games using Python. I'm eager to explore new technologies <br>
   and gain practical experience. Currently, I'm seeking a summer internship <br>
   in the IT industry to expand my knowledge and skills. <br>
