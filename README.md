@@ -10,5 +10,5 @@
 
 📧 How to reach me **BartoszKruszewski03@gmail.com**
 
-<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BartoszKruszewski&show_icons=false&theme=dark&size_weight=0.5&count_weight=0.5&hide=CMake,MakeFile,HTML,CSS,JavaScript,C&langs_count=5&layout=compact"/>
+<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BartoszKruszewski&show_icons=false&theme=dark&size_weight=0.5&count_weight=0.5&hide=CMake,MakeFile,HTML,CSS,C&langs_count=5&layout=compact"/>
 <img src="https://skillicons.dev/icons?i=py,github,git,css,html,js,bootstrap,cpp" />
